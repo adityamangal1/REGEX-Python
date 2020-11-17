@@ -1,6 +1,8 @@
 # REGEX-Python
 
-![1_m3wegA5h10b8aM5U64xtSA](https://user-images.githubusercontent.com/68494604/99364471-03681100-28dc-11eb-933b-20531e20aa33.png)
+
+![2019-06-28-python-regex-groups-to-capture-substrings](https://user-images.githubusercontent.com/68494604/99367763-5fcd2f80-28e0-11eb-9e44-e13b9a41e36b.png)
+
 
 A regular expression (shortened as regex or regexp;[1] also referred to as rational expression[2][3]) is a sequence of characters that define a search pattern. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
 
